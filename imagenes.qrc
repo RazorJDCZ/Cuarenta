@@ -1,0 +1,48 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Fondo.png</file>
+        <file>trasera.jpg</file>
+        <file>Fondo_inicio.jpg</file>
+        <file>1c.jpg</file>
+        <file>1d.jpg</file>
+        <file>1p.jpg</file>
+        <file>1t.jpg</file>
+        <file>2c.jpg</file>
+        <file>2d.jpg</file>
+        <file>2p.jpg</file>
+        <file>2t.jpg</file>
+        <file>3c.jpg</file>
+        <file>3d.jpg</file>
+        <file>3p.jpg</file>
+        <file>3t.jpg</file>
+        <file>4c.jpg</file>
+        <file>4d.jpg</file>
+        <file>4p.jpg</file>
+        <file>4t.jpg</file>
+        <file>5c.jpg</file>
+        <file>5d.jpg</file>
+        <file>5p.jpg</file>
+        <file>5t.jpg</file>
+        <file>6c.jpg</file>
+        <file>6d.jpg</file>
+        <file>6p.jpg</file>
+        <file>6t.jpg</file>
+        <file>7c.jpg</file>
+        <file>7d.jpg</file>
+        <file>7p.jpg</file>
+        <file>7t.jpg</file>
+        <file>8c.jpg</file>
+        <file>8d.jpg</file>
+        <file>8p.jpg</file>
+        <file>8t.jpg</file>
+        <file>9c.jpg</file>
+        <file>9d.jpg</file>
+        <file>9p.jpg</file>
+        <file>9t.jpg</file>
+        <file>10c.jpg</file>
+        <file>10d.jpg</file>
+        <file>10p.jpg</file>
+        <file>10t.jpg</file>
+        <file>MIX FIESTAS DE QUITO.mp3</file>
+    </qresource>
+</RCC>
