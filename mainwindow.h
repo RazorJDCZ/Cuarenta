@@ -5,7 +5,6 @@
 #include <QMainWindow>
 #include <QPushButton>
 #include <QMessageBox>
-#include <QMediaPlayer>
 #include "game.h"
 
 QT_BEGIN_NAMESPACE
@@ -38,7 +37,7 @@ public:
     QPushButton* cartas_Mesa[9];
     QSet<int> numerosGenerados;
 
-    QMediaPlayer * music = new QMediaPlayer();
+   
 public slots:
     void tirar_carta_jugador();
 
