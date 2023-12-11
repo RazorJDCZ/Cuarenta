@@ -10,10 +10,6 @@ MainWindow::MainWindow(QWidget *parent)
 {
     ui->setupUi(this);
 
-    //Para la musica
-    music->setSource(QUrl("url://MIX FIESTAS DE QUITO.mp3"));
-    //music->setSourceDevice(QUrl("qrc://MIX FIESTAS DE QUITO.mp3"));
-    music->play();
 
     //Para que no se puedan clickear las cartas del oponente
     ui->CartaO1->setEnabled(false);
